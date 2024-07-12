@@ -1,6 +1,6 @@
 # Quantum-Computing
 
-![CCNov18_Viewpoint-processor](https://github.com/user-attachments/assets/767983a8-bd9e-4d61-8089-7de741b286ac)
+![CCNov18_Viewpoint-processor](https://github.com/user-attachments/assets/966acc10-ef46-47cd-b633-08d5a3ec94ec)
 
 
 This is space is dedicated to my projects in quantum computing.
